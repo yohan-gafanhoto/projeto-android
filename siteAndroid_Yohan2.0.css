@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: 'Android';
-    src: url('../MATERIAL/Site_Android/fontes/idroid.otf') format('opentype');
+    src: url('fontes/idroid.otf') format('opentype');
     font-weight: normal;
 }
 
